@@ -53,3 +53,4 @@ files-downloader/target/files-downloader-1.0-SNAPSHOT/gfv3ee6.dpf
 files-downloader/target/files-downloader-1.0-SNAPSHOT/WEB-INF/glassfish-web.xml
 files-downloader/target/maven-archiver/pom.properties
 *.lst
+/files-servlet/target/
