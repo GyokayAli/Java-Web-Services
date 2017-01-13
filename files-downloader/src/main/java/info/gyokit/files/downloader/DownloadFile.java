@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Gali
+ * @author Gyokay Ali
  */
 @WebServlet(urlPatterns = {"/show/file/*", "/download/file/*"})
 public class DownloadFile extends HttpServlet {
