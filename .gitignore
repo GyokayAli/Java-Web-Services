@@ -45,6 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+<<<<<<< HEAD
 files-downloader/target/classes/info/gyokit/files/downloader/DownloadFile.class
 files-downloader/target/endorsed/javaee-endorsed-api-7.0.jar
 *.war
@@ -54,3 +55,5 @@ files-downloader/target/files-downloader-1.0-SNAPSHOT/WEB-INF/glassfish-web.xml
 files-downloader/target/maven-archiver/pom.properties
 *.lst
 /files-servlet/target/
+=======
+>>>>>>> parent of 677f4e4... java servlet - file downloader/publisher
