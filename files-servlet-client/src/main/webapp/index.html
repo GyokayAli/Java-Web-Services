@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Send Files Page</title>
+    </head>
+    <body>
+        <form action="http://localhost:8080/files-servlet/SendFilesServlet/send/file" method="POST" enctype="multipart/form-data">
+            Select a file:<input type="file" name="file" multiple />
+            <input type="submit" value="Upload"/>
+        </form>
+    </body>
+</html>
