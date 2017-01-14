@@ -57,3 +57,4 @@ files-downloader/target/maven-archiver/pom.properties
 /files-servlet/target/
 =======
 >>>>>>> parent of 677f4e4... java servlet - file downloader/publisher
+/ws-files-service/target/

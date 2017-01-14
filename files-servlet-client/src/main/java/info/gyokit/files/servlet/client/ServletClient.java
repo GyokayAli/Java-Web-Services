@@ -14,7 +14,7 @@ import org.apache.http.util.EntityUtils;
 
 /**
  *
- * @author Gali
+ * @author Gyokay Ali
  */
 public class ServletClient {
 
