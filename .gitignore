@@ -61,3 +61,7 @@ files-downloader/target/maven-archiver/pom.properties
 =======
 /files-servlet/target/
 >>>>>>> parent of 18b452f... :octocat: Added .gitattributes & .gitignore files
+/ws-files-client/target/
+/files-client/target/
+/rs-files-service/target/
+/saaj-files-service/target/
