@@ -65,3 +65,4 @@ files-downloader/target/maven-archiver/pom.properties
 /files-client/target/
 /rs-files-service/target/
 /saaj-files-service/target/
+/rs-files-client/target/
